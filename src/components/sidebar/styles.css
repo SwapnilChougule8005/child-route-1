@@ -1,0 +1,15 @@
+.sidebar {
+   height: 100%;
+   padding-top: 20px;
+   overflow-y: auto;
+   width: 250px;
+   /* position: absolute; */
+   background-color: rgb(215, 241, 241);
+  }
+  .sidebar a {
+    position: relative;
+    padding: 15px 25px;
+    text-decoration: none;
+    color: #292525;
+    display: block;
+  }
